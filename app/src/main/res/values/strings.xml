@@ -1,3 +1,4 @@
 <resources>
   <string name="app_name">Lifecycle Codelab</string>
+  <string name="counting">Counting...</string>
 </resources>
